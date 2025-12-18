@@ -1052,9 +1052,7 @@ Agent: [Retrieves and answers with specific information]
 
 ---
 
-## License
 
-MIT License - Feel free to use this for learning and building your own projects!
 
 ---
 
