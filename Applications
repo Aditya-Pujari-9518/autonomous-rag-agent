@@ -1,0 +1,23 @@
+1. Enterprise Knowledge Assistant
+
+Can be used as an internal AI assistant for organizations to answer employee queries based on company documents, SOPs, policies, and manuals.
+
+2. Customer Support Automation
+
+The agent can handle customer queries by retrieving information from product documentation, FAQs, and knowledge bases, reducing dependency on human support teams.
+
+3. HR Policy & Onboarding Assistant
+
+Helps employees understand HR policies, leave rules, benefits, and onboarding material by querying internal HR documents.
+
+4. Research & Learning Assistant
+
+Supports students, researchers, and analysts by retrieving relevant content from PDFs, notes, or research documents and generating summarized, accurate answers.
+
+5. Legal & Compliance Document Assistant
+
+Can be adapted to search through contracts, compliance guidelines, and policy documents to answer regulation-related queries with reduced hallucination.
+
+6. Education & Training Platforms
+
+Useful for e-learning platforms where learners can ask questions from course material and receive context-aware explanations.
